@@ -1,6 +1,5 @@
 #  Módulo de Búsqueda de Gastos
 #  Santiago Rey- Rama: feature/busqueda
-# ============================================================
 
 def buscar_gasto(gastos):
     """
