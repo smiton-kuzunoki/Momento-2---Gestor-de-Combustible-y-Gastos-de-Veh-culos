@@ -1,6 +1,7 @@
+# ==========================================
 #  Módulo de Búsqueda de Gastos
 #  Santiago Rey- Rama: feature/busqueda
-
+# ==========================================
 def buscar_gasto(gastos):
     """
     Busca todos los gastos de un vehículo por su placa.
