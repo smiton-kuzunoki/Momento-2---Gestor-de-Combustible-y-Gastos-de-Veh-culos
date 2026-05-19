@@ -1,6 +1,6 @@
 # ============================================================
 #  Módulo de Registro de Gastos
-#  Estudiante 2 - Rama: feature/registro
+#  Angelica Ruiz - Rama: feature/registro
 # ============================================================
 
 def registrar_gasto(gastos):
