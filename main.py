@@ -1,6 +1,5 @@
 #  Control de Gastos de Vehículos - Empresa de Transporte
 #  Tomas Maldonado: Estructura y Menú Principal
-# ============================================================
 
 from registro import registrar_gasto       
 from consulta import ver_gastos           
