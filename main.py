@@ -1,6 +1,6 @@
 # ============================================================
 #  Control de Gastos de Vehículos - Empresa de Transporte
-#  Estudiante 1: Estructura y Menú Principal
+#  Tomas Maldonado: Estructura y Menú Principal
 # ============================================================
 
 from registro import registrar_gasto       # Estudiante 2
