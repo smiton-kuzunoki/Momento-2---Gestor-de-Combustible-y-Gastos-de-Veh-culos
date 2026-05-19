@@ -1,11 +1,10 @@
-# ============================================================
 #  Control de Gastos de Vehículos - Empresa de Transporte
 #  Tomas Maldonado: Estructura y Menú Principal
 # ============================================================
 
 from registro import registrar_gasto       
 from consulta import ver_gastos           
-# from busqueda import buscar_gasto         # Estudiante 4 (descomentar cuando esté listo)
+from busqueda import buscar_gasto         
 
 # Lista compartida donde se guardan todos los gastos
 gastos = []
@@ -34,8 +33,7 @@ def main():
             ver_gastos(gastos)
 
         elif opcion == "3":
-            print("\n  [Módulo pendiente - Estudiante 4]")
-            #buscar_gasto(gastos)
+            buscar_gasto(gastos)
 
         elif opcion == "4":
             print("\n  👋 Hasta luego. ¡Buena jornada!\n")
